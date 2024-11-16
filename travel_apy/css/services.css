@@ -1,0 +1,54 @@
+#heading1{
+    text-align: center;
+}
+.paragraph{
+    font-family: "Droid Sans Mono";
+    font-size: 18px;
+}
+#mydivision{
+    background-color: dodgerblue;
+    margin: 50px;
+    padding: 30px;
+}
+#mydivision h1{
+    color: white;
+    text-align: center;
+}
+#text{
+    display: flex;
+    background-color: gray;
+    margin: 50px;
+    padding: 30px;
+    color: white;
+}
+#text img{
+    margin-right: 30px;
+    border-radius: 400px;
+}
+#main{
+    display: flex;
+}
+#advertisement{
+    background-color: blue;
+    color: white;
+    margin-right: 20px;
+    padding: 30px;
+     box-shadow: 10px 8px 8px 4px gray;
+}
+#accounting{
+ background-color: cornflowerblue;
+    color: white;
+    margin-right: 20px;
+    padding: 30px;
+    box-shadow: 10px 8px 8px 4px gray;
+}
+#payment{
+    background-color: greenyellow;
+    color: white;
+    margin-right: 20px;
+    padding: 30px;
+    box-shadow: 10px 8px 8px 4px gray;
+}
+#advertisement:hover,#payment:hover,#accounting:hover {
+    background-color: gray;
+}

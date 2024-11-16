@@ -1,0 +1,13 @@
+h1{
+    color: darkred;
+    text-align: center;
+    font-size: 80px;
+    background: black;
+    line-height: 100px;
+    text-shadow: 12px 4px 12px yellow;
+
+
+}
+h1:{
+    background-color: lightblue;
+}
